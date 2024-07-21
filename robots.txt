@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mehmethoustoner.github.io/sitemap.xml
